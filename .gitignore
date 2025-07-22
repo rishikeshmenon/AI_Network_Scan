@@ -1,0 +1,9 @@
+__pycache__/
+*.pt
+*.h5
+*.json
+*.log
+training_data/
+screenshots/
+classified_data/
+.env
